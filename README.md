@@ -1,3 +1,3 @@
 # image-segmentation-using-enhanced-K-Means
 
-Sehmentation of images using K++ algorithm
+Segmentation of images using K++ algorithm
